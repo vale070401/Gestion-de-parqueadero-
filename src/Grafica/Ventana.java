@@ -254,6 +254,8 @@ public void Guardar(){
 public void Salir(){
    exit(0);
 }
+private void gestionarParqueadero(){
+}
 
 
 }
