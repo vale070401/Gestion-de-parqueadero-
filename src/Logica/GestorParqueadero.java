@@ -62,6 +62,11 @@ public class GestorParqueadero implements Serializable{
     public Map<String, RegistroIngreso> obtenerLista(){
         return (Map<String, RegistroIngreso>) this.listaVehiculos;
     }
+    private void BusquedaVehiculo()
+    {
+        
+        
+    }
 }
     
    
